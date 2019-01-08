@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+}
+
+h2 {
+  font-style: italic;
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+body{
+  background-color: #ffff99;
+  font-family: fantasy;
+  text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
