@@ -1,0 +1,31 @@
+h1 {
+  color: salmon;
+}
+
+h2 {
+  font-style: italic;
+  color: salmon;
+}
+
+p {
+  color: #006666;
+}
+
+ul{
+  list-style-position: inside;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+a{
+  text-decoration: none;
+}
+body{
+  background-color: #ccffff;
+  font-family: fantasy;
+  text-align: center;
+}
